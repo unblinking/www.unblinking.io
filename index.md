@@ -12,6 +12,8 @@ ___
 
 [TrappyKeepy](https://github.com/unblinking/trappykeepy) is a document storage Web API.  
 
+Features include users, groups, document storage, and document access control. Users may be created and may sign in using their credentials to receive a session token. Groups may be created, and users may be given memberships to groups. Downloading documents requires permission per-document, and document access permits may be issued directly to users, or to groups.  
+
 ### 💬 Forgettable  
 
 [Forgettable](https://github.com/unblinking/forgettable) is an ephemeral chatroom.  
