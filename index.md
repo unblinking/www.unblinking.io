@@ -2,7 +2,7 @@
 
 Technology moves pretty fast. If you don't blink, you won't miss it.  
 
-__unblinking I/O__ is a software development organization providing source code that is free and open.  
+__unblinking I/O__ is a software development organization providing source code that is free and open. Projects are maintained by [jmg1138](https://github.com/jmg1138).  
 
 ___  
 
