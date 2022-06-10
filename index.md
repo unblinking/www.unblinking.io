@@ -22,6 +22,10 @@ Written using [.NET6](https://dotnet.microsoft.com/download/dotnet/6.0) with the
 
 Written using [Node.js](https://nodejs.org/)/[Express.js](https://expressjs.com/)/[Inversify.js](https://inversify.io/)/[TypeScript](https://www.typescriptlang.org/), following the [Domain-Driven Design](https://khalilstemmler.com/articles/domain-driven-design-intro/) approach. Data is persisted using [PostgreSQL](https://www.postgresql.org/), without an ORM.  
 
+### 🤖 unblinkingBot  
+
+[unblinkingBot](https://www.unblinkingbot.com/) is a chat-bot (Slack bot) surveillance-system assistant.  
+
 ### 💬 Forgettable  
 
 [Forgettable](https://github.com/unblinking/forgettable) is an ephemeral chatroom.  
