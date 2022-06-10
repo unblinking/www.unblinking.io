@@ -40,6 +40,10 @@ Written in [Python](https://www.python.org/). tmpNote is a combination of [wxPyt
 
 The goals of this chatroom project are to remain simple and temporary. Enter a nickname and begin chatting instantly. No password required, no sign-up process, no database, and no centrally saved chat history (making the chat history ephemeral and forgettable). You can [try it right now](https://forgettable-chat.herokuapp.com/) (hosted by Heroku).  
 
+### ⏱ trackerTimer  
+
+trackerTimer provides network analysis of website tracking elements, with an [API server](https://github.com/unblinking/trackertimer_api) and a [web app](https://github.com/unblinking/trackertimer_webapp).  
+
 ### 🐈 Lila of the Day  
 
 [Lila of the Day](https://github.com/unblinking/lilaoftheday_android) is an app for Android that reminds you to value creative play, the outcome of which is all reality.  
