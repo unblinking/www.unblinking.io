@@ -22,6 +22,14 @@ Written using [.NET6](https://dotnet.microsoft.com/download/dotnet/6.0) with the
 
 Written using [Node.js](https://nodejs.org/)/[Express.js](https://expressjs.com/)/[Inversify.js](https://inversify.io/)/[TypeScript](https://www.typescriptlang.org/), following the [Domain-Driven Design](https://khalilstemmler.com/articles/domain-driven-design-intro/) approach. Data is persisted using [PostgreSQL](https://www.postgresql.org/), without an ORM.  
 
+### 📓 tmpNote  
+
+[tmpNote](https://tmpnote.com/) is another text editor.  
+
+Edit some temporary notes (plain text), or Python source code (syntax highlighting). A simple text editor with undo/redo, cut/copy/paste/delete, select all, word wrap, line numbers, folding symbols, and Python syntax highlighting.  
+
+Written in [Python](https://www.python.org/). tmpNote is a combination of [wxPython](http://www.wxpython.org/), [AGW Flatnotebook](http://svn.wxwidgets.org/svn/wx/wxPython/3rdParty/AGW/agw/flatnotebook.py) ( [another link](https://docs.wxpython.org/wx.lib.agw.flatnotebook.html#module-wx.lib.agw.flatnotebook) ), and [StyledTextCtrl](https://docs.wxpython.org/wx.stc.StyledTextCtrl.html#wx.stc.StyledTextCtrl).  
+
 ### 🤖 unblinkingBot  
 
 [unblinkingBot](https://www.unblinkingbot.com/) is a chat-bot (Slack bot) surveillance-system assistant.  
