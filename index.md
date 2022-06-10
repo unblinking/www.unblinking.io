@@ -10,9 +10,17 @@ ___
 
 ### 🗎 TrappyKeepy  
 
-[TrappyKeepy](https://github.com/unblinking/trappykeepy) is a document storage Web API.  
+[TrappyKeepy](https://github.com/unblinking/trappykeepy) is a document storage REST API.  
 
 Features include users, groups, document storage, and document access control. Users may be created and may sign in using their credentials to receive a session token. Groups may be created, and users may be given memberships to groups. Downloading documents requires permission per-document, and document access permits may be issued directly to users, or to groups.  
+
+Written using [.NET6](https://dotnet.microsoft.com/download/dotnet/6.0) with the [.NET CLI](https://docs.microsoft.com/en-us/dotnet/core/tools/), [C# 10](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-10/), and [PostgreSQL](https://www.postgresql.org/).  
+
+### 🟢 Template API  
+
+[Template API](https://github.com/unblinking/template-api-node-ex-di-ts-pg) is a template/boilerplate for starting a REST API.  
+
+Written using [Node.js](https://nodejs.org/)/[Express.js](https://expressjs.com/)/[Inversify.js](https://inversify.io/)/[TypeScript](https://www.typescriptlang.org/), following the [Domain-Driven Design](https://khalilstemmler.com/articles/domain-driven-design-intro/) approach. Data is persisted using [PostgreSQL](https://www.postgresql.org/), without an ORM.  
 
 ### 💬 Forgettable  
 
