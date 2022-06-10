@@ -8,6 +8,10 @@ ___
 
 ## Check out these projects  
 
+### 🗃 Recipe.Report  
+
+[Recipe.Report](https://www.recipe.report/) generates useful reports based on recipes and reciepts.  
+
 ### 🗎 TrappyKeepy  
 
 [TrappyKeepy](https://github.com/unblinking/trappykeepy) is a document storage REST API.  
