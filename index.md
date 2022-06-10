@@ -8,6 +8,12 @@ ___
 
 ## Check out these projects  
 
+### 🗎 TrappyKeepy  
+
+[TrappyKeepy](https://github.com/unblinking/trappykeepy) is a document storage Web API.  
+
 ### 💬 Forgettable  
 
-[Forgettable](https://github.com/unblinking/forgettable) is another chatroom. The goal of this chatroom project is to remain simple. Enter a nickname and begin chatting instantly. No password required, no sign-up process, no database, and no centrally saved chat history (making the chat history forgettable). You can [try it right now](https://forgettable-chat.herokuapp.com/) (hosted by Heroku).  
+[Forgettable](https://github.com/unblinking/forgettable) is an ephemeral chatroom.  
+
+The goals of this chatroom project are to remain simple and temporary. Enter a nickname and begin chatting instantly. No password required, no sign-up process, no database, and no centrally saved chat history (making the chat history ephemeral and forgettable). You can [try it right now](https://forgettable-chat.herokuapp.com/) (hosted by Heroku).  
