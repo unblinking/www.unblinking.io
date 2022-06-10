@@ -27,3 +27,4 @@ Written using [Node.js](https://nodejs.org/)/[Express.js](https://expressjs.com/
 [Forgettable](https://github.com/unblinking/forgettable) is an ephemeral chatroom.  
 
 The goals of this chatroom project are to remain simple and temporary. Enter a nickname and begin chatting instantly. No password required, no sign-up process, no database, and no centrally saved chat history (making the chat history ephemeral and forgettable). You can [try it right now](https://forgettable-chat.herokuapp.com/) (hosted by Heroku).  
+
