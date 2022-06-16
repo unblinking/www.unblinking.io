@@ -10,7 +10,7 @@ ___
 
 ### 🗃 Recipe.Report  
 
-[Recipe.Report](https://www.recipe.report/) generates useful reports based on recipes and reciepts.  
+[Recipe.Report](https://www.recipe.report/) generates useful reports based on recipes and receipts.  
 
 ### 🗎 TrappyKeepy  
 
